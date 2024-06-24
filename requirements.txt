@@ -5,6 +5,7 @@ pyngrok
 notebook
 numpy
 pandas
+statsmodels
 category_encoders
 matplotlib
 seaborn
