@@ -1,4 +1,17 @@
+jupyter
+ipython
+jupyter-server-proxy
+pyngrok
+notebook
 numpy
 pandas
 category_encoders
 matplotlib
+seaborn
+tqdm
+dask
+pyarrow
+missingno
+sweetviz
+dataprep
+termcolor
