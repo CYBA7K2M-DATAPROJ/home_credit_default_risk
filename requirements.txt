@@ -1,3 +1,8 @@
+jupyter
+ipython
+jupyter-server-proxy
+pyngrok
+notebook
 numpy
 pandas
 category_encoders
