@@ -1,0 +1,298 @@
+Type Summary for /content/exports/columns_types_checked/testing_data/application_train_type_summary.txt:
+  SK_ID_CURR:
+    int: 100.00%
+  TARGET:
+    int: 100.00%
+  NAME_CONTRACT_TYPE:
+    str: 100.00%
+  CODE_GENDER:
+    str: 100.00%
+  FLAG_OWN_CAR:
+    str: 100.00%
+  FLAG_OWN_REALTY:
+    str: 100.00%
+  CNT_CHILDREN:
+    int: 100.00%
+  AMT_INCOME_TOTAL:
+    int: 100.00%
+  AMT_CREDIT:
+    int: 100.00%
+  AMT_ANNUITY:
+    int: 100.00%
+  AMT_GOODS_PRICE:
+    int: 100.00%
+  NAME_TYPE_SUITE:
+    str: 99.80%
+    float: 0.20%
+  NAME_INCOME_TYPE:
+    str: 100.00%
+  NAME_EDUCATION_TYPE:
+    str: 100.00%
+  NAME_FAMILY_STATUS:
+    str: 100.00%
+  NAME_HOUSING_TYPE:
+    str: 100.00%
+  REGION_POPULATION_RELATIVE:
+    int: 100.00%
+  DAYS_BIRTH:
+    int: 100.00%
+  DAYS_EMPLOYED:
+    int: 100.00%
+  DAYS_REGISTRATION:
+    int: 100.00%
+  DAYS_ID_PUBLISH:
+    int: 100.00%
+  OWN_CAR_AGE:
+    null: 66.50%
+    int: 33.50%
+  FLAG_MOBIL:
+    int: 100.00%
+  FLAG_EMP_PHONE:
+    int: 100.00%
+  FLAG_WORK_PHONE:
+    int: 100.00%
+  FLAG_CONT_MOBILE:
+    int: 100.00%
+  FLAG_PHONE:
+    int: 100.00%
+  FLAG_EMAIL:
+    int: 100.00%
+  OCCUPATION_TYPE:
+    str: 71.40%
+    float: 28.60%
+  CNT_FAM_MEMBERS:
+    int: 100.00%
+  REGION_RATING_CLIENT:
+    int: 100.00%
+  REGION_RATING_CLIENT_W_CITY:
+    int: 100.00%
+  WEEKDAY_APPR_PROCESS_START:
+    str: 100.00%
+  HOUR_APPR_PROCESS_START:
+    int: 100.00%
+  REG_REGION_NOT_LIVE_REGION:
+    int: 100.00%
+  REG_REGION_NOT_WORK_REGION:
+    int: 100.00%
+  LIVE_REGION_NOT_WORK_REGION:
+    int: 100.00%
+  REG_CITY_NOT_LIVE_CITY:
+    int: 100.00%
+  REG_CITY_NOT_WORK_CITY:
+    int: 100.00%
+  LIVE_CITY_NOT_WORK_CITY:
+    int: 100.00%
+  ORGANIZATION_TYPE:
+    str: 100.00%
+  EXT_SOURCE_1:
+    null: 57.60%
+    int: 42.40%
+  EXT_SOURCE_2:
+    int: 99.70%
+    null: 0.30%
+  EXT_SOURCE_3:
+    int: 79.10%
+    null: 20.90%
+  APARTMENTS_AVG:
+    int: 50.50%
+    null: 49.50%
+  BASEMENTAREA_AVG:
+    null: 57.40%
+    int: 42.60%
+  YEARS_BEGINEXPLUATATION_AVG:
+    int: 52.10%
+    null: 47.90%
+  YEARS_BUILD_AVG:
+    null: 65.80%
+    int: 34.20%
+  COMMONAREA_AVG:
+    null: 69.70%
+    int: 30.30%
+  ELEVATORS_AVG:
+    null: 52.10%
+    int: 47.90%
+  ENTRANCES_AVG:
+    int: 51.20%
+    null: 48.80%
+  FLOORSMAX_AVG:
+    int: 52.10%
+    null: 47.90%
+  FLOORSMIN_AVG:
+    null: 67.70%
+    int: 32.30%
+  LANDAREA_AVG:
+    null: 59.80%
+    int: 40.20%
+  LIVINGAPARTMENTS_AVG:
+    null: 68.20%
+    int: 31.80%
+  LIVINGAREA_AVG:
+    int: 51.10%
+    null: 48.90%
+  NONLIVINGAPARTMENTS_AVG:
+    null: 68.90%
+    int: 31.10%
+  NONLIVINGAREA_AVG:
+    null: 53.50%
+    int: 46.50%
+  APARTMENTS_MODE:
+    int: 50.50%
+    null: 49.50%
+  BASEMENTAREA_MODE:
+    null: 57.40%
+    int: 42.60%
+  YEARS_BEGINEXPLUATATION_MODE:
+    int: 52.10%
+    null: 47.90%
+  YEARS_BUILD_MODE:
+    null: 65.80%
+    int: 34.20%
+  COMMONAREA_MODE:
+    null: 69.70%
+    int: 30.30%
+  ELEVATORS_MODE:
+    null: 52.10%
+    int: 47.90%
+  ENTRANCES_MODE:
+    int: 51.20%
+    null: 48.80%
+  FLOORSMAX_MODE:
+    int: 52.10%
+    null: 47.90%
+  FLOORSMIN_MODE:
+    null: 67.70%
+    int: 32.30%
+  LANDAREA_MODE:
+    null: 59.80%
+    int: 40.20%
+  LIVINGAPARTMENTS_MODE:
+    null: 68.20%
+    int: 31.80%
+  LIVINGAREA_MODE:
+    int: 51.10%
+    null: 48.90%
+  NONLIVINGAPARTMENTS_MODE:
+    null: 68.90%
+    int: 31.10%
+  NONLIVINGAREA_MODE:
+    null: 53.50%
+    int: 46.50%
+  APARTMENTS_MEDI:
+    int: 50.50%
+    null: 49.50%
+  BASEMENTAREA_MEDI:
+    null: 57.40%
+    int: 42.60%
+  YEARS_BEGINEXPLUATATION_MEDI:
+    int: 52.10%
+    null: 47.90%
+  YEARS_BUILD_MEDI:
+    null: 65.80%
+    int: 34.20%
+  COMMONAREA_MEDI:
+    null: 69.70%
+    int: 30.30%
+  ELEVATORS_MEDI:
+    null: 52.10%
+    int: 47.90%
+  ENTRANCES_MEDI:
+    int: 51.20%
+    null: 48.80%
+  FLOORSMAX_MEDI:
+    int: 52.10%
+    null: 47.90%
+  FLOORSMIN_MEDI:
+    null: 67.70%
+    int: 32.30%
+  LANDAREA_MEDI:
+    null: 59.80%
+    int: 40.20%
+  LIVINGAPARTMENTS_MEDI:
+    null: 68.20%
+    int: 31.80%
+  LIVINGAREA_MEDI:
+    int: 51.10%
+    null: 48.90%
+  NONLIVINGAPARTMENTS_MEDI:
+    null: 68.90%
+    int: 31.10%
+  NONLIVINGAREA_MEDI:
+    null: 53.50%
+    int: 46.50%
+  FONDKAPREMONT_MODE:
+    null: 68.00%
+    str: 32.00%
+  HOUSETYPE_MODE:
+    str: 51.40%
+    float: 48.60%
+  TOTALAREA_MODE:
+    int: 53.10%
+    null: 46.90%
+  WALLSMATERIAL_MODE:
+    str: 50.60%
+    float: 49.40%
+  EMERGENCYSTATE_MODE:
+    str: 53.80%
+    float: 46.20%
+  OBS_30_CNT_SOCIAL_CIRCLE:
+    int: 100.00%
+  DEF_30_CNT_SOCIAL_CIRCLE:
+    int: 100.00%
+  OBS_60_CNT_SOCIAL_CIRCLE:
+    int: 100.00%
+  DEF_60_CNT_SOCIAL_CIRCLE:
+    int: 100.00%
+  DAYS_LAST_PHONE_CHANGE:
+    int: 100.00%
+  FLAG_DOCUMENT_2:
+    int: 100.00%
+  FLAG_DOCUMENT_3:
+    int: 100.00%
+  FLAG_DOCUMENT_4:
+    int: 100.00%
+  FLAG_DOCUMENT_5:
+    int: 100.00%
+  FLAG_DOCUMENT_6:
+    int: 100.00%
+  FLAG_DOCUMENT_7:
+    int: 100.00%
+  FLAG_DOCUMENT_8:
+    int: 100.00%
+  FLAG_DOCUMENT_9:
+    int: 100.00%
+  FLAG_DOCUMENT_10:
+    int: 100.00%
+  FLAG_DOCUMENT_11:
+    int: 100.00%
+  FLAG_DOCUMENT_12:
+    int: 100.00%
+  FLAG_DOCUMENT_13:
+    int: 100.00%
+  FLAG_DOCUMENT_14:
+    int: 100.00%
+  FLAG_DOCUMENT_15:
+    int: 100.00%
+  FLAG_DOCUMENT_16:
+    int: 100.00%
+  FLAG_DOCUMENT_17:
+    int: 100.00%
+  FLAG_DOCUMENT_18:
+    int: 100.00%
+  FLAG_DOCUMENT_19:
+    int: 100.00%
+  FLAG_DOCUMENT_20:
+    int: 100.00%
+  FLAG_DOCUMENT_21:
+    int: 100.00%
+  AMT_REQ_CREDIT_BUREAU_HOUR:
+    int: 100.00%
+  AMT_REQ_CREDIT_BUREAU_DAY:
+    int: 100.00%
+  AMT_REQ_CREDIT_BUREAU_WEEK:
+    int: 100.00%
+  AMT_REQ_CREDIT_BUREAU_MON:
+    int: 100.00%
+  AMT_REQ_CREDIT_BUREAU_QRT:
+    int: 100.00%
+  AMT_REQ_CREDIT_BUREAU_YEAR:
+    int: 100.00%

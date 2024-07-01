@@ -1,0 +1,17 @@
+Type Summary for /content/exports/columns_types_checked/testing_data/POS_CASH_balance_type_summary.txt:
+  SK_ID_PREV:
+    int: 100.00%
+  SK_ID_CURR:
+    int: 100.00%
+  MONTHS_BALANCE:
+    int: 100.00%
+  CNT_INSTALMENT:
+    int: 100.00%
+  CNT_INSTALMENT_FUTURE:
+    int: 100.00%
+  NAME_CONTRACT_STATUS:
+    str: 100.00%
+  SK_DPD:
+    int: 100.00%
+  SK_DPD_DEF:
+    int: 100.00%

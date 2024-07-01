@@ -1,0 +1,49 @@
+Type Summary for /content/exports/columns_types_checked/testing_data/credit_card_balance_type_summary.txt:
+  SK_ID_PREV:
+    int: 100.00%
+  SK_ID_CURR:
+    int: 100.00%
+  MONTHS_BALANCE:
+    int: 100.00%
+  AMT_BALANCE:
+    int: 100.00%
+  AMT_CREDIT_LIMIT_ACTUAL:
+    int: 100.00%
+  AMT_DRAWINGS_ATM_CURRENT:
+    int: 100.00%
+  AMT_DRAWINGS_CURRENT:
+    int: 100.00%
+  AMT_DRAWINGS_OTHER_CURRENT:
+    int: 100.00%
+  AMT_DRAWINGS_POS_CURRENT:
+    int: 86.30%
+    null: 13.70%
+  AMT_INST_MIN_REGULARITY:
+    int: 100.00%
+  AMT_PAYMENT_CURRENT:
+    int: 86.10%
+    null: 13.90%
+  AMT_PAYMENT_TOTAL_CURRENT:
+    int: 100.00%
+  AMT_RECEIVABLE_PRINCIPAL:
+    int: 100.00%
+  AMT_RECIVABLE:
+    int: 100.00%
+  AMT_TOTAL_RECEIVABLE:
+    int: 100.00%
+  CNT_DRAWINGS_ATM_CURRENT:
+    int: 100.00%
+  CNT_DRAWINGS_CURRENT:
+    int: 100.00%
+  CNT_DRAWINGS_OTHER_CURRENT:
+    int: 100.00%
+  CNT_DRAWINGS_POS_CURRENT:
+    int: 100.00%
+  CNT_INSTALMENT_MATURE_CUM:
+    int: 100.00%
+  NAME_CONTRACT_STATUS:
+    str: 100.00%
+  SK_DPD:
+    int: 100.00%
+  SK_DPD_DEF:
+    int: 100.00%

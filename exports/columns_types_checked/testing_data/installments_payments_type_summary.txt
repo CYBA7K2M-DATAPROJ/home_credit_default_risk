@@ -1,0 +1,17 @@
+Type Summary for /content/exports/columns_types_checked/testing_data/installments_payments_type_summary.txt:
+  SK_ID_PREV:
+    int: 100.00%
+  SK_ID_CURR:
+    int: 100.00%
+  NUM_INSTALMENT_VERSION:
+    int: 100.00%
+  NUM_INSTALMENT_NUMBER:
+    int: 100.00%
+  DAYS_INSTALMENT:
+    int: 100.00%
+  DAYS_ENTRY_PAYMENT:
+    int: 100.00%
+  AMT_INSTALMENT:
+    int: 100.00%
+  AMT_PAYMENT:
+    int: 100.00%

@@ -1,0 +1,39 @@
+Type Summary for /content/exports/columns_types_checked/testing_data/bureau_type_summary.txt:
+  SK_ID_CURR:
+    int: 100.00%
+  SK_ID_BUREAU:
+    int: 100.00%
+  CREDIT_ACTIVE:
+    str: 100.00%
+  CREDIT_CURRENCY:
+    str: 100.00%
+  DAYS_CREDIT:
+    int: 100.00%
+  CREDIT_DAY_OVERDUE:
+    int: 100.00%
+  DAYS_CREDIT_ENDDATE:
+    int: 100.00%
+  DAYS_ENDDATE_FACT:
+    int: 100.00%
+  AMT_CREDIT_MAX_OVERDUE:
+    null: 59.30%
+    int: 40.70%
+  CNT_CREDIT_PROLONG:
+    int: 100.00%
+  AMT_CREDIT_SUM:
+    int: 100.00%
+  AMT_CREDIT_SUM_DEBT:
+    int: 85.00%
+    null: 15.00%
+  AMT_CREDIT_SUM_LIMIT:
+    int: 70.10%
+    null: 29.90%
+  AMT_CREDIT_SUM_OVERDUE:
+    int: 100.00%
+  CREDIT_TYPE:
+    str: 100.00%
+  DAYS_CREDIT_UPDATE:
+    int: 100.00%
+  AMT_ANNUITY:
+    null: 93.10%
+    int: 6.90%

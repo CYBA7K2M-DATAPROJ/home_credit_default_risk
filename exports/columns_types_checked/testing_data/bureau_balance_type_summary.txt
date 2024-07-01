@@ -1,0 +1,8 @@
+Type Summary for /content/exports/columns_types_checked/testing_data/bureau_balance_type_summary.txt:
+  SK_ID_BUREAU:
+    int: 100.00%
+  MONTHS_BALANCE:
+    int: 100.00%
+  STATUS:
+    str: 61.00%
+    int: 39.00%

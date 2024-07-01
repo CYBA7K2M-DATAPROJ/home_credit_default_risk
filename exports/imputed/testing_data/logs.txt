@@ -1,0 +1,231 @@
+Processing file /content/exports/columns_types_checked/testing_data/application_test.csv
+Starting data preparation
+Data preparation completed
+Starting imputation for application_test using median
+Successfully imputed and saved application_test using median to /content/exports/imputed/testing_data/median/application_test.csv
+Progress: 1/64 (1.56%)
+Starting imputation for application_test using mean
+Successfully imputed and saved application_test using mean to /content/exports/imputed/testing_data/mean/application_test.csv
+Progress: 2/64 (3.12%)
+Starting imputation for application_test using most_frequent
+Successfully imputed and saved application_test using most_frequent to /content/exports/imputed/testing_data/most_frequent/application_test.csv
+Progress: 3/64 (4.69%)
+Starting imputation for application_test using constant_0
+Successfully imputed and saved application_test using constant_0 to /content/exports/imputed/testing_data/constant_0/application_test.csv
+Progress: 4/64 (6.25%)
+Starting imputation for application_test using knn
+Successfully imputed and saved application_test using knn to /content/exports/imputed/testing_data/knn/application_test.csv
+Progress: 5/64 (7.81%)
+Starting imputation for application_test using iterative
+Successfully imputed and saved application_test using iterative to /content/exports/imputed/testing_data/iterative/application_test.csv
+Progress: 6/64 (9.38%)
+Starting imputation for application_test using ffill
+NaN values found in chunk: rows 0 to 1000, columns: ['OWN_CAR_AGE', 'YEARS_BUILD_AVG', 'COMMONAREA_AVG', 'ELEVATORS_AVG', 'FLOORSMIN_AVG', 'LANDAREA_AVG', 'LIVINGAPARTMENTS_AVG', 'NONLIVINGAPARTMENTS_AVG', 'NONLIVINGAREA_AVG', 'YEARS_BUILD_MODE', 'COMMONAREA_MODE', 'ELEVATORS_MODE', 'FLOORSMIN_MODE', 'LANDAREA_MODE', 'LIVINGAPARTMENTS_MODE', 'NONLIVINGAPARTMENTS_MODE', 'NONLIVINGAREA_MODE', 'YEARS_BUILD_MEDI', 'COMMONAREA_MEDI', 'ELEVATORS_MEDI', 'FLOORSMIN_MEDI', 'LANDAREA_MEDI', 'LIVINGAPARTMENTS_MEDI', 'NONLIVINGAPARTMENTS_MEDI', 'NONLIVINGAREA_MEDI']
+Attempting to fill remaining NaNs with default value
+Successfully imputed and saved application_test using ffill to /content/exports/imputed/testing_data/ffill/application_test.csv
+Progress: 7/64 (10.94%)
+Starting imputation for application_test using bfill
+NaN values found in chunk: rows 0 to 1000, columns: ['OWN_CAR_AGE']
+Attempting to fill remaining NaNs with default value
+Successfully imputed and saved application_test using bfill to /content/exports/imputed/testing_data/bfill/application_test.csv
+Progress: 8/64 (12.50%)
+Processing file /content/exports/columns_types_checked/testing_data/POS_CASH_balance.csv
+Starting data preparation
+Data preparation completed
+Starting imputation for POS_CASH_balance using median
+Successfully imputed and saved POS_CASH_balance using median to /content/exports/imputed/testing_data/median/POS_CASH_balance.csv
+Progress: 9/64 (14.06%)
+Starting imputation for POS_CASH_balance using mean
+Successfully imputed and saved POS_CASH_balance using mean to /content/exports/imputed/testing_data/mean/POS_CASH_balance.csv
+Progress: 10/64 (15.62%)
+Starting imputation for POS_CASH_balance using most_frequent
+Successfully imputed and saved POS_CASH_balance using most_frequent to /content/exports/imputed/testing_data/most_frequent/POS_CASH_balance.csv
+Progress: 11/64 (17.19%)
+Starting imputation for POS_CASH_balance using constant_0
+Successfully imputed and saved POS_CASH_balance using constant_0 to /content/exports/imputed/testing_data/constant_0/POS_CASH_balance.csv
+Progress: 12/64 (18.75%)
+Starting imputation for POS_CASH_balance using knn
+Successfully imputed and saved POS_CASH_balance using knn to /content/exports/imputed/testing_data/knn/POS_CASH_balance.csv
+Progress: 13/64 (20.31%)
+Starting imputation for POS_CASH_balance using iterative
+Successfully imputed and saved POS_CASH_balance using iterative to /content/exports/imputed/testing_data/iterative/POS_CASH_balance.csv
+Progress: 14/64 (21.88%)
+Starting imputation for POS_CASH_balance using ffill
+Successfully imputed and saved POS_CASH_balance using ffill to /content/exports/imputed/testing_data/ffill/POS_CASH_balance.csv
+Progress: 15/64 (23.44%)
+Starting imputation for POS_CASH_balance using bfill
+Successfully imputed and saved POS_CASH_balance using bfill to /content/exports/imputed/testing_data/bfill/POS_CASH_balance.csv
+Progress: 16/64 (25.00%)
+Processing file /content/exports/columns_types_checked/testing_data/installments_payments.csv
+Starting data preparation
+Data preparation completed
+Starting imputation for installments_payments using median
+Successfully imputed and saved installments_payments using median to /content/exports/imputed/testing_data/median/installments_payments.csv
+Progress: 17/64 (26.56%)
+Starting imputation for installments_payments using mean
+Successfully imputed and saved installments_payments using mean to /content/exports/imputed/testing_data/mean/installments_payments.csv
+Progress: 18/64 (28.12%)
+Starting imputation for installments_payments using most_frequent
+Successfully imputed and saved installments_payments using most_frequent to /content/exports/imputed/testing_data/most_frequent/installments_payments.csv
+Progress: 19/64 (29.69%)
+Starting imputation for installments_payments using constant_0
+Successfully imputed and saved installments_payments using constant_0 to /content/exports/imputed/testing_data/constant_0/installments_payments.csv
+Progress: 20/64 (31.25%)
+Starting imputation for installments_payments using knn
+Successfully imputed and saved installments_payments using knn to /content/exports/imputed/testing_data/knn/installments_payments.csv
+Progress: 21/64 (32.81%)
+Starting imputation for installments_payments using iterative
+Successfully imputed and saved installments_payments using iterative to /content/exports/imputed/testing_data/iterative/installments_payments.csv
+Progress: 22/64 (34.38%)
+Starting imputation for installments_payments using ffill
+Successfully imputed and saved installments_payments using ffill to /content/exports/imputed/testing_data/ffill/installments_payments.csv
+Progress: 23/64 (35.94%)
+Starting imputation for installments_payments using bfill
+Successfully imputed and saved installments_payments using bfill to /content/exports/imputed/testing_data/bfill/installments_payments.csv
+Progress: 24/64 (37.50%)
+Processing file /content/exports/columns_types_checked/testing_data/bureau_balance.csv
+Starting data preparation
+Data preparation completed
+Starting imputation for bureau_balance using median
+Successfully imputed and saved bureau_balance using median to /content/exports/imputed/testing_data/median/bureau_balance.csv
+Progress: 25/64 (39.06%)
+Starting imputation for bureau_balance using mean
+Successfully imputed and saved bureau_balance using mean to /content/exports/imputed/testing_data/mean/bureau_balance.csv
+Progress: 26/64 (40.62%)
+Starting imputation for bureau_balance using most_frequent
+Successfully imputed and saved bureau_balance using most_frequent to /content/exports/imputed/testing_data/most_frequent/bureau_balance.csv
+Progress: 27/64 (42.19%)
+Starting imputation for bureau_balance using constant_0
+Successfully imputed and saved bureau_balance using constant_0 to /content/exports/imputed/testing_data/constant_0/bureau_balance.csv
+Progress: 28/64 (43.75%)
+Starting imputation for bureau_balance using knn
+Successfully imputed and saved bureau_balance using knn to /content/exports/imputed/testing_data/knn/bureau_balance.csv
+Progress: 29/64 (45.31%)
+Starting imputation for bureau_balance using iterative
+Successfully imputed and saved bureau_balance using iterative to /content/exports/imputed/testing_data/iterative/bureau_balance.csv
+Progress: 30/64 (46.88%)
+Starting imputation for bureau_balance using ffill
+Successfully imputed and saved bureau_balance using ffill to /content/exports/imputed/testing_data/ffill/bureau_balance.csv
+Progress: 31/64 (48.44%)
+Starting imputation for bureau_balance using bfill
+Successfully imputed and saved bureau_balance using bfill to /content/exports/imputed/testing_data/bfill/bureau_balance.csv
+Progress: 32/64 (50.00%)
+Processing file /content/exports/columns_types_checked/testing_data/previous_application.csv
+Starting data preparation
+Data preparation completed
+Starting imputation for previous_application using median
+Failed to impute previous_application using median due to 'RATE_INTEREST_PRIMARY'
+Progress: 33/64 (51.56%)
+Starting imputation for previous_application using mean
+Failed to impute previous_application using mean due to 'RATE_INTEREST_PRIMARY'
+Progress: 34/64 (53.12%)
+Starting imputation for previous_application using most_frequent
+Failed to impute previous_application using most_frequent due to 'RATE_INTEREST_PRIMARY'
+Progress: 35/64 (54.69%)
+Starting imputation for previous_application using constant_0
+Failed to impute previous_application using constant_0 due to 'RATE_INTEREST_PRIMARY'
+Progress: 36/64 (56.25%)
+Starting imputation for previous_application using knn
+Failed to impute previous_application using knn due to 'RATE_INTEREST_PRIMARY'
+Progress: 37/64 (57.81%)
+Starting imputation for previous_application using iterative
+Failed to impute previous_application using iterative due to 'RATE_INTEREST_PRIMARY'
+Progress: 38/64 (59.38%)
+Starting imputation for previous_application using ffill
+Failed to impute previous_application using ffill due to 'RATE_INTEREST_PRIMARY'
+Progress: 39/64 (60.94%)
+Starting imputation for previous_application using bfill
+Failed to impute previous_application using bfill due to 'RATE_INTEREST_PRIMARY'
+Progress: 40/64 (62.50%)
+Processing file /content/exports/columns_types_checked/testing_data/bureau.csv
+Starting data preparation
+Data preparation completed
+Starting imputation for bureau using median
+Failed to impute bureau using median due to 'AMT_ANNUITY'
+Progress: 41/64 (64.06%)
+Starting imputation for bureau using mean
+Failed to impute bureau using mean due to 'AMT_ANNUITY'
+Progress: 42/64 (65.62%)
+Starting imputation for bureau using most_frequent
+Failed to impute bureau using most_frequent due to 'AMT_ANNUITY'
+Progress: 43/64 (67.19%)
+Starting imputation for bureau using constant_0
+Failed to impute bureau using constant_0 due to 'AMT_ANNUITY'
+Progress: 44/64 (68.75%)
+Starting imputation for bureau using knn
+Failed to impute bureau using knn due to 'AMT_ANNUITY'
+Progress: 45/64 (70.31%)
+Starting imputation for bureau using iterative
+Failed to impute bureau using iterative due to 'AMT_ANNUITY'
+Progress: 46/64 (71.88%)
+Starting imputation for bureau using ffill
+NaN values found in chunk: rows 0 to 1000, columns: ['AMT_CREDIT_MAX_OVERDUE', 'AMT_CREDIT_SUM_LIMIT']
+Attempting to fill remaining NaNs with default value
+Failed to impute bureau using ffill due to 'AMT_ANNUITY'
+Progress: 47/64 (73.44%)
+Starting imputation for bureau using bfill
+NaN values found in chunk: rows 0 to 1000, columns: ['AMT_CREDIT_MAX_OVERDUE', 'AMT_CREDIT_SUM_DEBT', 'AMT_CREDIT_SUM_LIMIT']
+Attempting to fill remaining NaNs with default value
+Failed to impute bureau using bfill due to 'AMT_ANNUITY'
+Progress: 48/64 (75.00%)
+Processing file /content/exports/columns_types_checked/testing_data/credit_card_balance.csv
+Starting data preparation
+Data preparation completed
+Starting imputation for credit_card_balance using median
+Successfully imputed and saved credit_card_balance using median to /content/exports/imputed/testing_data/median/credit_card_balance.csv
+Progress: 49/64 (76.56%)
+Starting imputation for credit_card_balance using mean
+Successfully imputed and saved credit_card_balance using mean to /content/exports/imputed/testing_data/mean/credit_card_balance.csv
+Progress: 50/64 (78.12%)
+Starting imputation for credit_card_balance using most_frequent
+Successfully imputed and saved credit_card_balance using most_frequent to /content/exports/imputed/testing_data/most_frequent/credit_card_balance.csv
+Progress: 51/64 (79.69%)
+Starting imputation for credit_card_balance using constant_0
+Successfully imputed and saved credit_card_balance using constant_0 to /content/exports/imputed/testing_data/constant_0/credit_card_balance.csv
+Progress: 52/64 (81.25%)
+Starting imputation for credit_card_balance using knn
+Successfully imputed and saved credit_card_balance using knn to /content/exports/imputed/testing_data/knn/credit_card_balance.csv
+Progress: 53/64 (82.81%)
+Starting imputation for credit_card_balance using iterative
+Successfully imputed and saved credit_card_balance using iterative to /content/exports/imputed/testing_data/iterative/credit_card_balance.csv
+Progress: 54/64 (84.38%)
+Starting imputation for credit_card_balance using ffill
+Successfully imputed and saved credit_card_balance using ffill to /content/exports/imputed/testing_data/ffill/credit_card_balance.csv
+Progress: 55/64 (85.94%)
+Starting imputation for credit_card_balance using bfill
+NaN values found in chunk: rows 0 to 1000, columns: ['AMT_DRAWINGS_POS_CURRENT', 'AMT_PAYMENT_CURRENT']
+Attempting to fill remaining NaNs with default value
+Successfully imputed and saved credit_card_balance using bfill to /content/exports/imputed/testing_data/bfill/credit_card_balance.csv
+Progress: 56/64 (87.50%)
+Processing file /content/exports/columns_types_checked/testing_data/application_train.csv
+Starting data preparation
+Data preparation completed
+Starting imputation for application_train using median
+Successfully imputed and saved application_train using median to /content/exports/imputed/testing_data/median/application_train.csv
+Progress: 57/64 (89.06%)
+Starting imputation for application_train using mean
+Successfully imputed and saved application_train using mean to /content/exports/imputed/testing_data/mean/application_train.csv
+Progress: 58/64 (90.62%)
+Starting imputation for application_train using most_frequent
+Successfully imputed and saved application_train using most_frequent to /content/exports/imputed/testing_data/most_frequent/application_train.csv
+Progress: 59/64 (92.19%)
+Starting imputation for application_train using constant_0
+Successfully imputed and saved application_train using constant_0 to /content/exports/imputed/testing_data/constant_0/application_train.csv
+Progress: 60/64 (93.75%)
+Starting imputation for application_train using knn
+Successfully imputed and saved application_train using knn to /content/exports/imputed/testing_data/knn/application_train.csv
+Progress: 61/64 (95.31%)
+Starting imputation for application_train using iterative
+Successfully imputed and saved application_train using iterative to /content/exports/imputed/testing_data/iterative/application_train.csv
+Progress: 62/64 (96.88%)
+Starting imputation for application_train using ffill
+NaN values found in chunk: rows 0 to 1000, columns: ['OWN_CAR_AGE']
+Attempting to fill remaining NaNs with default value
+Successfully imputed and saved application_train using ffill to /content/exports/imputed/testing_data/ffill/application_train.csv
+Progress: 63/64 (98.44%)
+Starting imputation for application_train using bfill
+NaN values found in chunk: rows 0 to 1000, columns: ['APARTMENTS_AVG', 'BASEMENTAREA_AVG', 'YEARS_BEGINEXPLUATATION_AVG', 'YEARS_BUILD_AVG', 'COMMONAREA_AVG', 'ELEVATORS_AVG', 'ENTRANCES_AVG', 'FLOORSMAX_AVG', 'FLOORSMIN_AVG', 'LANDAREA_AVG', 'LIVINGAPARTMENTS_AVG', 'LIVINGAREA_AVG', 'NONLIVINGAPARTMENTS_AVG', 'NONLIVINGAREA_AVG', 'APARTMENTS_MODE', 'BASEMENTAREA_MODE', 'YEARS_BEGINEXPLUATATION_MODE', 'YEARS_BUILD_MODE', 'COMMONAREA_MODE', 'ELEVATORS_MODE', 'ENTRANCES_MODE', 'FLOORSMAX_MODE', 'FLOORSMIN_MODE', 'LANDAREA_MODE', 'LIVINGAPARTMENTS_MODE', 'LIVINGAREA_MODE', 'NONLIVINGAPARTMENTS_MODE', 'NONLIVINGAREA_MODE', 'APARTMENTS_MEDI', 'BASEMENTAREA_MEDI', 'YEARS_BEGINEXPLUATATION_MEDI', 'YEARS_BUILD_MEDI', 'COMMONAREA_MEDI', 'ELEVATORS_MEDI', 'ENTRANCES_MEDI', 'FLOORSMAX_MEDI', 'FLOORSMIN_MEDI', 'LANDAREA_MEDI', 'LIVINGAPARTMENTS_MEDI', 'LIVINGAREA_MEDI', 'NONLIVINGAPARTMENTS_MEDI', 'NONLIVINGAREA_MEDI', 'TOTALAREA_MODE']
+Attempting to fill remaining NaNs with default value
+Successfully imputed and saved application_train using bfill to /content/exports/imputed/testing_data/bfill/application_train.csv
+Progress: 64/64 (100.00%)
+Successfully exported imputation results to /content/exports/imputed/testing_data/imputation_results_test.json
